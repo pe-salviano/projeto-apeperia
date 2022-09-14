@@ -15,6 +15,8 @@
 
 <h2>:bookmark_tabs: Descrição</h2>
 <p>O projeto apeperia foi desenvolvido através do curso de Mobile First da alura. O processo de desenvovlimento foi por um layout no figma </p>
+<a href="https://pe-salviano.github.io/projeto-apeperia/projeto-apeperia/"> Link do projeto Apeperia </a>
+
 
 ## Layout web
 ![Web 1](https://github.com/pe-salviano/projeto-apeperia/blob/main/projeto-apeperia/img/layout-web1.png)
